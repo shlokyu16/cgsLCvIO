@@ -1,2 +1,2 @@
 # cgsLCvIO
-It is an small experiment to show the difference between Symbolic approach, Connectionist approach and Bayesianism approach. Also, a hybrid model to show what Bermudez emphasized in his book Introduction to Cognitive Science (4th Edition).
+It is an small experiment to show the difference between Symbolic approach, Connectionist approach and Bayesianism approach. Also, a hybrid model to show what Bermudez emphasized in his book Introduction to Cognitive Science (4th Edition). This is an application in my article of what I learned in CGS 001 at UC Davis during summer and how it broadened my knowledge in Cognitive Science, and how it bring me a step closer to my aspiration.
