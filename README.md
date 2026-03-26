@@ -1,4 +1,4 @@
-# cgsLCvIO — Living Creature vs. Inanimate Object Classification
+# cgsLCvIO: Living Creature vs. Inanimate Object Classification
 
 A concept-categorization experiment comparing three computational paradigms in cognitive science: **Symbolic (rule-based)**, **Connectionist (neural network)**, and **Bayesian (probabilistic inference)** — plus a **Hybrid model** that combines all three.
 
